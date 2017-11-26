@@ -1,0 +1,22 @@
+{
+    "name": "myriatek-light",
+    "displayName": "Myriatek-Light",
+    "description": "Myriatek light color scheme.",
+    "version": "0.0.1",
+    "publisher": "Aditya Purwa",
+    "engines": {
+        "vscode": "^1.18.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Myriatek Light",
+                "uiTheme": "vs",
+                "path": "./themes/Myriatek-color-theme.json"
+            }
+        ]
+    }
+}
