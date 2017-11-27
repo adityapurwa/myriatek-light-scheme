@@ -195,7 +195,7 @@
       "scope": "entity.name.function",
       "settings": {
         "foreground": "#FE0066",
-        "fontStyle": ""
+        "fontStyle": "bold"
       }
     },
     {
@@ -223,7 +223,7 @@
     "tab.inactiveBackground": "#EEEEEE",
     "tab.inactiveForeground": "#333333",
     "tab.activeBackground": "#FFFFFF",
-    "tab.activeForeground": "#333333",
+    "tab.activeForeground": "#333333",    
     "tab.border": "#DDDDDD",
     "panel.background": "#FFFFFF",
     "panel.dropBackground": "#EEEEEE",
@@ -238,7 +238,7 @@
     "statusBar.foreground": "#FFFFFF",
     "sideBar.background": "#FFFFFF",
     "sideBar.foreground": "#333333",
-    "sideBarTitle.foreground": "#EEEEEE",
+    "sideBarTitle.foreground": "#333",
     "sideBar.dropBackground": "#EEEEEE",
     "sideBarSectionHeader.background": "#FFFFFF",
     "sideBar.border": "#EEEEEE",
