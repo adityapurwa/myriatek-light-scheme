@@ -273,7 +273,7 @@
     "editorLink.activeForeground": "#0051E8",
     "foreground": "#BBB",
     "welcomePage.buttonBackground": "#222222",
-    "welcomePage.buttonHoverBackground": "#DDDDDD",
+    "welcomePage.buttonHoverBackground": "#333",
     "editor.lineHighlightBorder": "#111",
     "editor.lineHighlightBackground": "#111",
     "editorHoverWidget.background": "#222",
