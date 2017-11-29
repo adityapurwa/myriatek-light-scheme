@@ -8,6 +8,10 @@
   "engines": {
     "vscode": "^1.18.0"
   },
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/adityapurwa/myriatek-scheme.git"
+  },
   "categories": ["Themes"],
   "contributes": {
     "themes": [
