@@ -248,7 +248,7 @@
     "sideBarTitle.foreground": "#fff",
     "sideBar.dropBackground": "#EEEEEE",
     "sideBarSectionHeader.background": "#111",
-    "sideBar.border": "#111",
+    "sideBar.border": "#222",
     "sideBarSectionHeader.foreground": "#BBB",
     "list.hoverBackground": "#000",
     "list.hoverForeground": "#fff",
@@ -286,7 +286,7 @@
     "badge.foreground": "#fff",
     "editor.wordHighlightBackground": "#111",
     "editor.wordHighlightStrongBackground": "#111",
-    "editor.selectionBackground": "#111",
+    "editor.selectionBackground": "#000",
     "editor.selectionForeground": "#fff",
     "editorGutter.modifiedBackground": "#6EB800",
     "gitDecoration.modifiedResourceForeground": "#6EB800",
@@ -296,7 +296,11 @@
     "editorSuggestWidget.selectedBackground": "#DDD",
     "terminal.background": "#111",
     "titleBar.activeBackground": "#111",
-    "titleBar.inactiveBackground": "#222"
+    "titleBar.inactiveBackground": "#222",
+    "selection.background": "#000",
+    "editor.selectionHighlightBackground": "#000",
+    "editor.inactiveSelectionBackground": "#222",
+    "terminal.selectionBackground": "#111"
   },
   "name": "Myriatek"
 }
