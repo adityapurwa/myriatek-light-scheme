@@ -9,8 +9,6 @@ The scheme include two styles, dark and light.
 
 ### Preview
 
-Dark
-
 ![Dark Theme](assets/dark.jpg)
 
 ![Light Theme](assets/light.jpg)
